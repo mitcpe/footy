@@ -1,7 +1,7 @@
 ---
 title: 'Sloppy defending allows Burnley back'
 date: 2019-09-29T18:40:53+01:00
-draft: true
+draft: false
 tags: [Burnley]
 categories: [Match Review]
 ---

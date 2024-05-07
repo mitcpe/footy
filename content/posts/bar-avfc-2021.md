@@ -1,7 +1,7 @@
 ---
 title: 'Archer repays Dean’s faith in youth'
 date: 2021-08-25T15:47:31+01:00
-draft: true
+draft: false
 tags: [Barrow AFC, Cameron Archer]
 categories: [Match Review]
 ---

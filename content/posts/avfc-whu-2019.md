@@ -1,7 +1,7 @@
 ---
 title: 'Stalemate with West Ham at Villa Park'
 date: 2019-09-17T18:02:34+01:00
-draft: true
+draft: false
 tags: [West Ham]
 categories: [Match Review]
 ---

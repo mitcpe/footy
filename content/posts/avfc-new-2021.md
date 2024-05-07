@@ -1,7 +1,7 @@
 ---
 title: 'Special goal by Ings against Newcastle'
 date: 2021-08-23T18:16:45+01:00
-draft: true
+draft: false
 tags: [Newcastle, Danny Ings, Anwar El Ghazi]
 categories: [Match Review]
 ---

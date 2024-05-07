@@ -1,7 +1,7 @@
 ---
 title: 'City Too Good for Villa'
 date: 2019-10-26T11:14:10+01:00
-draft: true
+draft: false
 tags: ["Man. City"]
 categories: [Match Review]
 ---

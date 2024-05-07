@@ -1,7 +1,7 @@
 ---
 title: 'Villa up & Running with win over Everton'
 date: 2019-08-26T16:51:27+01:00
-draft: true
+draft: false
 tags: [Everton]
 categories: [Match Review]
 ---

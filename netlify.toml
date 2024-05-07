@@ -4,7 +4,6 @@
 
 [build.environment]
   HUGO_VERSION = "0.124.1"
-  HUGO_BASEURL = "https://eloquent-liger-b9ae6f.netlify.app/"
 
 [[headers]]
   for = "/*.css"

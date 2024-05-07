@@ -1,7 +1,7 @@
 ---
 title: 'Are Villa better without Jack'
 date: 2021-08-15T17:58:14+01:00
-draft: true
+draft: false
 tags: ["Jack Grealish"]
 categories: [Blog]
 ---
