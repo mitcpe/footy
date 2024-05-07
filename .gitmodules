@@ -1,0 +1,3 @@
+[submodule "themes/hugo-strappy"]
+	path = themes/hugo-strappy
+	url = https://github.com/mitcpe/hugo-strappy.git

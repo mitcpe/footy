@@ -1,0 +1,216 @@
+baseURL: "/"
+title: AVFC Facts
+theme: hugo-strappy
+lang: en-GB
+
+copyright: "AVFCFacts"
+enableRobotsTXT: true
+enableEmoji: true
+canonifyURLs: true
+
+author:
+  name: Paul Mitchell
+  email: avfcfacts@gmail.com
+
+languageCode: en-GB
+
+social:
+  twitter: "avfcfacts1"
+
+outputFormats:
+  SearchIndex:
+    baseName: search
+    mediaType: application/json
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  description: "Open Graph Description"
+  images: ["/img/hero1.webp"]
+  title: AVFC Facts
+  favicon: img/favicon.ico
+  brandimg: /img/lion-square.jpg
+  dateFormat: 2 Jan 2006
+
+  googleAnalytics: ???
+
+  author: Paul Mitchell
+
+  ShowWordCount: false
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+
+  sidebarEnable: true
+  sidebarLR: right
+
+  i18n: true
+
+  # Index Page Attributes
+  carousel: false
+  subheading: true
+  ourValues: true
+  ourvaluesHead: Welcome to AVFC Facts
+  ourValuesNote1: Welcome to the new home of I ♥ Books where I continue to discuss and review the books that I love, mainly murder mysteries, the occasional fantasy and a bit of horror.
+  ourValuesNote2: I'm gradually bringing all the content over from our other site at iluvbooks.org, but don't worry, once done you'll be able to get to this site using either domain.
+  jumbotron: false
+  myblog: false
+  contactus: false
+  myHeading: AVFC Facts
+  mySubHeading: This is just a subheading with stuff in
+  headerImage: "/img/avfcfacts-head.jpg"
+  headerImageSize: 1500x
+  headerImageAlt: "Villa Lion"
+
+  mainSections:
+    - posts
+    - tables
+
+  widgets:
+    categories: true
+    tags: false
+    goodreads: false
+    recent: true
+    recent_num: 5 # Set the number of articles in the "Recent articles" widget
+
+  sidebar:
+    widgets:
+      [
+        "search",
+        "recent",
+        "categories",
+        "taglist",
+        "goodreads",
+        "social",
+        "languages",
+      ]
+
+  social:
+    - icon: fa-facebook
+      url: https://www.facebook.com/iluvbooksOrg
+    - icon: fa-twitter
+      url: https://www.twitter.com/avfcfacts1
+      twitter: "@avfcfacts1"
+    - icon: fa-instagram
+      url: https://www.instagram.com/iluvbooks_org
+
+  share:
+    twitter: true
+    facebook: false
+    reddit: true
+    tumblr: false
+    email: false
+    pinterest: false
+    linkedin: false
+
+  enableLunrSearch: true
+
+  #[Params.sidebar]
+  #  home = "right" # Configure layout for home page
+  #  list = "left"  # Configure layout for list pages
+  #  single = false # Configure layout for single pages
+  #  # Enable widgets in given order
+  #  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+  #[Params.widgets]
+
+  #  categories_counter = false # Enable counter for each category in "Categories" widget
+  #  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+  values:
+    - title: "Tables"
+      icon: fa fa-pen-nib
+      image: /img/review.webp
+      imgalt: Review
+      class: inline-svg-x2
+      description: "Reviewing books of all genres"
+      button: Review
+      url: /csv-tables/
+    - title: "Posts"
+      icon: fa fa-pencil
+      image: /img/blog.webp
+      imgalt: Posts
+      class: inline-svg-x2
+      description: "Other thoughts with a bookish theme"
+      button: Posts
+      url: /posts/
+    - title: "Contact Us"
+      icon: fa fa-comment
+      image: /img/contact-us.webp
+      imgalt: Contact Us
+      class: inline-svg-x2
+      description: "Get in touch with us"
+      button: Contact
+      url: /contact/
+
+minify:
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tables
+      name: Tables
+      url: /csv-tables/
+      weight: 5
+    - identifier: fixtures
+      name: Fixtures
+      url: /fixtures/
+      weight: 14
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 25
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+  footer:
+    - name: Privacy
+      url: /privacy/
+      weight: 10
+    - name: About
+      url: /about/
+
+  share:
+    - title: Twitter
+      name: twitter
+      url: https://www.twitter.com/share?url=
+      weight: 10
+    - title: Facebook
+      name: facebook
+      url: https://www.facebook.com/sharer.php?u=
+      weight: 20
+    - title: Pinterest
+      name: pinterest
+      url: https://www.pinterest.com/iluvbooks_org
+      weight: 30
+    - title: Goodreads
+      name: goodreads
+      url: https://www.goodreads.com/iluvbooks_org
+      weight: 40
+
+taxonomies:
+  category: categories
+  tag: tags
+  bookauthor: bookauthors
+  publisher: publishers
+  genre: genres
+
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
