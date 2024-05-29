@@ -1,7 +1,7 @@
 ---
 title: 'Aston Villa Transfers 2021/22'
 date: 2024-05-28T16:18:24+01:00
-draft: true
+draft: false
 ---
 
 
