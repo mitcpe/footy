@@ -61,8 +61,8 @@ params:
   contactus: false
   myHeading: AVFC Facts
   mySubHeading: This is just a subheading with stuff in
-  headerImage: "/img/avfcfacts-head.jpg"
-  headerImageSize: 1500x
+  headerImage: "/img/avfcfacts.jpg"
+  headerImageSize: 1500x400
   headerImageAlt: "Villa Lion"
 
   mainSections:
@@ -165,6 +165,10 @@ menu:
       name: Fixtures
       url: /fixtures/
       weight: 14
+    - identifier: transfers
+      name: Transfers
+      url: /transfers/
+      weight: 18
     - identifier: contact
       name: Contact
       url: /contact/
