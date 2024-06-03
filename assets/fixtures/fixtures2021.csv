@@ -1,46 +1,45 @@
 Date,Competition,,,Score,,
-21/07/2021,Pre-Season,"/img/teams/wals48.png",Walsall,"0 - 4","/img/teams/avfc48.png","Aston Villa"
-24/07/2021,Pre-Season,"/img/teams/stoke48.png",Stoke,"2 - 0","/img/teams/avfc48.png","Aston Villa"
-31/07/2021,Pre-Season,"/img/teams/bristc48.png","Bristol City","0 - 3","/img/teams/avfc48.png","Aston Villa"
-08/08/2021,Pre-Season,"/img/teams/avfc48.png","Aston Villa","3 - 1","/img/teams/salernita48.png",Salernitana
-14/08/2021,"Premier League","/img/teams/watf48.png",Watford,"3 - 2","/img/teams/avfc48.png","Aston Villa"
-21/08/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 0","/img/teams/newc48.png",Newcastle
-24/08/2021,"League Cup","/img/teams/barr48.png","Barrow AFC","0 - 6","/img/teams/avfc48.png","Aston Villa"
-28/08/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 1","/img/teams/bford48.png",Brentford
-11/09/2021,"Premier League","/img/teams/chels48.png",Chelsea,"3 - 0","/img/teams/avfc48.png","Aston Villa"
-18/09/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","3 - 0","/img/teams/efc48.png",Everton
-22/09/2021,"League Cup","/img/teams/chels48.png",Chelsea,"1 - 1*","/img/teams/avfc48.png","Aston Villa"
-25/09/2021,"Premier League","/img/teams/avfc48.png","Man. Utd","0 - 1","/img/teams/avfc48.png","Aston Villa"
-03/10/2021,"Premier League","/img/teams/spurs48.png",Tottenham,"2 - 1","/img/teams/avfc48.png","Aston Villa"
-16/10/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 3","/img/teams/wwfc48.png",Wolves
-22/10/2021,"Premier League","/img/teams/ars48.png",Arsenal,"3 - 1","/img/teams/avfc48.png","Aston Villa"
-31/10/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 4","/img/teams/wham48.png","West Ham"
-05/11/2021,"Premier League","/img/teams/south48.png",Southampton,"1 - 0","/img/teams/avfc48.png","Aston Villa"
-20/11/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 0","/img/teams/bright48.png",Brighton
-27/11/2021,"Premier League","/img/teams/cpfc48.png","Crystal Palace","1 - 2","/img/teams/avfc48.png","Aston Villa"
-01/12/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 2","/img/teams/manc48.png",Man. City
-05/12/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 1","/img/teams/leic48.png",Leicester
-11/12/2021,"Premier League","/img/teams/liv48.png",Liverpool,"1 - 0","/img/teams/avfc48.png","Aston Villa"
-14/12/2021,"Premier League","/img/teams/norw48.png",Norwich,"0 - 2","/img/teams/avfc48.png","Aston Villa"
-26/12/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 3","/img/teams/chels48.png",Chelsea
-02/01/2022,"Premier League","/img/teams/bford48.png",Brentford,"2 - 1","/img/teams/avfc48.png","Aston Villa"
-10/01/2022,"FA Cup","/img/teams/manu48.png","Man. Utd","1 - 0","/img/teams/avfc48.png","Aston Villa"
-15/01/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 2","/img/teams/manu48.png","Man. Utd"
-22/01/2022,"Premier League","/img/teams/efc48.png",Everton,"0 - 1","/img/teams/avfc48.png","Aston Villa"
-09/02/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","3 - 3","/img/teams/leed48.png",Leeds
-13/02/2022,"Premier League","/img/teams/newc48.png",Newcastle,"1 - 0","/img/teams/avfc48.png","Aston Villa"
-19/02/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 1","/img/teams/wford48.png",Watford
-26/02/2022,"Premier League","/img/teams/bright48.png",Brighton,"0 - 2","/img/teams/avfc48.png","Aston Villa"
-05/03/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","4 - 0","/img/teams/south48.png",Southampton
-10/03/2022,"Premier League","/img/teams/leed48.png",Leeds,"0 - 3","/img/teams/avfc48.png","Aston Villa"
-13/03/2022,"Premier League","/img/teams/wham48.png","West Ham","2 - 1","/img/teams/avfc48.png","Aston Villa"
-19/03/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 1","/img/teams/ars48.png",Arsenal
-02/04/2022,"Premier League","/img/teams/wwfc48.png",Wolves,"2 - 1","/img/teams/avfc48.png","Aston Villa"
-09/04/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 4","/img/teams/spurs48.png",Tottenham
-23/04/2022,"Premier League","/img/teams/leic48.png",Leicester,"0 - 0","/img/teams/avfc48.png","Aston Villa"
-30/04/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 0","/img/teams/norw48.png",Norwich
-07/05/2022,"Premier League","/img/teams/burn48.png",Burnley,"1 - 3","/img/teams/avfc48.png","Aston Villa"
-10/05/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 2","/img/teams/liv48.png",Liverpool
-15/05/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 1","/img/teams/cpfc48.png","Crystal Palace"
-19/05/2022,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 1","/img/teams/burn48.png",Burnley
-22/05/2022,"Premier League","/img/teams/manc48.png","Man. City","3 - 2","/img/teams/avfc48.png","Aston Villa"
+29/08/2020,Pre-Season,"/img/teams/avfc48.png","Aston Villa","5 - 2","/img/teams/wycomb96.png","Wycomb"
+12/09/2020,Pre-Season,"/img/teams/avfc48.png","Aston Villa","1 - 0","/img/teams/manu48.png","Man. Utd"
+15/09/2020,Pre-Season,"/img/teams/burt48.png","Burton","1 - 3","/img/teams/avfc48.png","Aston Villa"
+21/09/2020,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 0","/img/teams/sheffu48.png","Sheff Utd"
+24/09/2020,"League Cup","/img/teams/bristc48.png","Bristol City","0 - 3","/img/teams/avfc48.png","Aston Villa"
+28/09/2020,"Premier League","/img/teams/ffc48.png","Fulham","0 - 3","/img/teams/avfc48.png","Aston Villa"
+01/10/2020,"League Cup","/img/teams/avfc48.png","Aston Villa","0 - 1","/img/teams/stoke48.png","Stoke"
+04/10/2020,"Premier League","/img/teams/avfc48.png","Aston Villa","7 - 2","/img/teams/liv48.png","Liverpool"
+18/10/2020,"Premier League","/img/teams/leic48.png","Leicester","0 - 1","/img/teams/avfc48.png","Aston Villa"
+23/10/2020,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 3","/img/teams/leed48.png","Leeds"
+01/11/2020,"Premier League","/img/teams/avfc48.png","Aston Villa","3 - 4","/img/teams/south48.png","Southampton"
+08/11/2020,"Premier League","/img/teams/ars48.png","Arsenal","0 - 3","/img/teams/avfc48.png","Aston Villa"
+21/11/2020,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 2","/img/teams/bright48.png","Brighton"
+30/11/2020,"Premier League","/img/teams/wham48.png","West Ham","2 - 1","/img/teams/avfc48.png","Aston Villa"
+12/12/2020,"Premier League","/img/teams/wwfc48.png","Wolves","0 - 1","/img/teams/avfc48.png","Aston Villa"
+17/12/2020,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 0","/img/teams/burn48.png","Burnley"
+20/12/2020,"Premier League","/img/teams/wbrom48.png","West Brom","0 - 3","/img/teams/avfc48.png","Aston Villa"
+26/12/2020,"Premier League","/img/teams/avfc48.png","Aston Villa","3 - 0","/img/teams/cpfc48.png","Crystal Palace"
+28/12/2020,"Premier League","/img/teams/chels48.png","Chelsea","1 - 1","/img/teams/avfc48.png","Aston Villa"
+01/01/2021,"Premier League","/img/teams/manu48.png","Man. Utd","2 - 1","/img/teams/avfc48.png","Aston Villa"
+08/01/2021,"FA Cup","/img/teams/avfc48.png","Aston Villa","1 - 4","/img/teams/liv48.png","Liverpool"
+20/01/2021,"Premier League","/img/teams/manc48.png","Man. City","2 - 0","/img/teams/avfc48.png","Aston Villa"
+23/01/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 0","/img/teams/newc48.png","Newcastle"
+27/01/2021,"Premier League","/img/teams/burn48.png","Burnley","3 - 2","/img/teams/avfc48.png","Aston Villa"
+30/01/2021,"Premier League","/img/teams/south48.png","Southampton","0 - 1","/img/teams/avfc48.png","Aston Villa"
+03/02/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 3","/img/teams/wham48.png","West Ham"
+06/02/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 0","/img/teams/ars48.png","Arsenal"
+13/02/2021,"Premier League","/img/teams/bright48.png","Brighton","0 - 0","/img/teams/avfc48.png","Aston Villa"
+21/02/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 2","/img/teams/leic48.png","Leicester"
+27/02/2021,"Premier League","/img/teams/leed48.png","Leeds","0 - 1","/img/teams/avfc48.png","Aston Villa"
+03/03/2021,"Premier League","/img/teams/sheffu48.png","Sheff. Utd","1 - 0","/img/teams/avfc48.png","Aston Villa"
+06/03/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 0","/img/teams/wwfc48.png","Wolves"
+12/03/2021,"Premier League","/img/teams/newc48.png","Newcastle","1 - 1","/img/teams/avfc48.png","Aston Villa"
+21/03/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 2","/img/teams/spurs48.png","Tottenham"
+04/04/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","3 - 1","/img/teams/ffc48.png","Fulham"
+10/04/2021,"Premier League","/img/teams/liv48.png","Liverpool","2 - 1","/img/teams/avfc48.png","Aston Villa"
+21/04/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 2","/img/teams/manc48.png","Man. City"
+25/04/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 2","/img/teams/wbrom48.png","West Brom"
+01/05/2021,"Premier League","/img/teams/efc48.png","Everton","1 - 2","/img/teams/avfc48.png","Aston Villa"
+09/05/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","1 - 3","/img/teams/manu48.png","Man. Utd"
+13/05/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","0 - 0","/img/teams/efc48.png","Everton"
+16/05/2021,"Premier League","/img/teams/cpfc48.png","Crystal Palace","3 - 2","/img/teams/avfc48.png","Aston Villa"
+19/05/2021,"Premier League","/img/teams/spurs48.png","Tottenham","1 - 2","/img/teams/avfc48.png","Aston Villa"
+23/05/2021,"Premier League","/img/teams/avfc48.png","Aston Villa","2 - 1","/img/teams/chels48.png","Chelsea"
