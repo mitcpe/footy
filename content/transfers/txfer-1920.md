@@ -2,6 +2,8 @@
 title: 'Aston Villa Transfers 2019/20'
 date: 2022-05-30T16:18:24+01:00
 draft: false
+
+description: Transfers in and out of Villa 2019/20
 ---
 
 

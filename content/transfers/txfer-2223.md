@@ -2,6 +2,8 @@
 title: 'Aston Villa Transfers 2022/23'
 date: 2024-01-28T16:18:24+01:00
 draft: false
+
+description: Transfers in and out of Villa 2022/23
 ---
 
 
