@@ -156,15 +156,15 @@ menu:
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 10
+      weight: 5
     - identifier: tables
       name: Tables
       url: /csv-tables/
-      weight: 5
+      weight: 14
     - identifier: fixtures
       name: Fixtures
       url: /fixtures/
-      weight: 14
+      weight: 10
     - identifier: transfers
       name: Transfers
       url: /transfers/
