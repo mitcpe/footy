@@ -32,8 +32,8 @@ params:
   description: "Open Graph Description"
   images: ["/img/hero1.webp"]
   title: AVFC Facts
-  favicon: img/favicon.ico
-  brandimg: /img/lion-square.jpg
+  favicon: img/lion-square-16.png
+  brandimg: /img/lion-square-32.png
   dateFormat: 2 Jan 2006
 
   googleAnalytics: ???
