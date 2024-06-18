@@ -54,14 +54,14 @@ params:
   subheading: true
   ourValues: true
   ourvaluesHead: Welcome to AVFC Facts
-  ourValuesNote1: Welcome to the new home of I ♥ Books where I continue to discuss and review the books that I love, mainly murder mysteries, the occasional fantasy and a bit of horror.
-  ourValuesNote2: I'm gradually bringing all the content over from our other site at iluvbooks.org, but don't worry, once done you'll be able to get to this site using either domain.
+  ourValuesNote1: Welcome to the new home of AVFC Facts
+  ourValuesNote2: I'm gradually bringing all the content over from our other site at avfcfacts.com, but don't worry, once done you'll be able to get to this site using either domain.
   jumbotron: false
   myblog: false
   contactus: false
   myHeading: AVFC Facts
   mySubHeading: This is just a subheading with stuff in
-  headerImage: "/img/avfcfacts.jpg"
+  headerImage: "/img/avfcfacts_01.png"
   headerImageSize: 1500x400
   headerImageAlt: "Villa Lion"
 
@@ -128,15 +128,15 @@ params:
       image: /img/review.webp
       imgalt: Review
       class: inline-svg-x2
-      description: "Reviewing books of all genres"
-      button: Review
+      description: "The Latest League tables"
+      button: Tables
       url: /csv-tables/
     - title: "Posts"
       icon: fa fa-pencil
       image: /img/blog.webp
       imgalt: Posts
       class: inline-svg-x2
-      description: "Other thoughts with a bookish theme"
+      description: "Match Reviews and Villa thoughts"
       button: Posts
       url: /posts/
     - title: "Contact Us"
@@ -210,9 +210,6 @@ menu:
 taxonomies:
   category: categories
   tag: tags
-  bookauthor: bookauthors
-  publisher: publishers
-  genre: genres
 
 sitemap:
   changefreq: weekly
