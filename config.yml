@@ -124,29 +124,29 @@ params:
 
   values:
     - title: "Tables"
-      icon: fa fa-pen-nib
-      image: /img/review.webp
+      icon: fa fa-table
+  #    image: /img/review.webp
       imgalt: Review
       class: inline-svg-x2
       description: "The Latest League tables"
       button: Tables
       url: /csv-tables/
+    - title: "Fixtures"
+      icon: fa fa-futbol
+  #    image: /img/review.webp
+      imgalt: Ficxtures
+      class: inline-svg-x2
+      description: "The Latest Villa Fixtures"
+      button: Fixtures
+      url: /fixtures/
     - title: "Posts"
       icon: fa fa-pencil
-      image: /img/blog.webp
+  #    image: /img/blog.webp
       imgalt: Posts
       class: inline-svg-x2
       description: "Match Reviews and Villa thoughts"
       button: Posts
       url: /posts/
-    - title: "Contact Us"
-      icon: fa fa-comment
-      image: /img/contact-us.webp
-      imgalt: Contact Us
-      class: inline-svg-x2
-      description: "Get in touch with us"
-      button: Contact
-      url: /contact/
 
 minify:
   minifyOutput: true
