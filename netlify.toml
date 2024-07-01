@@ -4,7 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.124.1"
-  HUGO_BASEURL = "https://avfcfacts.com/"
+  HUGO_BASEURL = "https://avfcfacts.co.uk/"
 
 [[headers]]
   for = "/*.css"
