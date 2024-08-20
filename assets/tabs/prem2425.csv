@@ -8,9 +8,9 @@ Pos,,,Pld,W,D,L,GF,GA,GD,Pts
 7,/img/teams/man-u.png,Man. Utd,1,1,0,0,1,0,1,3
 8,/img/teams/newcastle.png,Newcastle,1,1,0,0,1,0,1,3
 9,/img/teams/bournemouth.png,Bournemouth,1,0,1,0,1,1,0,1
-10,/img/teams/nottm-f.png,Nottm For,1,0,1,0,1,1,0,1
-11,/img/teams/leicester.png,Leicester,0,0,0,0,0,0,0,0
-12,/img/teams/spurs.png,Tottenham,0,0,0,0,0,0,0,0
+10,/img/teams/leicester.png,Leicester,1,0,1,0,1,1,0,1
+11,/img/teams/nottm-f.png,Nottm For,1,0,1,0,1,1,0,1
+12,/img/teams/spurs.png,Tottenham,1,0,1,0,1,1,0,1
 13,/img/teams/crystal-pal.png,Crystal Pal,1,0,0,1,1,2,-1,0
 14,/img/teams/west-ham.png,West Ham,1,0,0,1,1,2,-1,0
 15,/img/teams/fulham.png,Fulham,1,0,0,1,0,1,-1,0
