@@ -1,21 +1,21 @@
 Pos,,,Pld,W,D,L,GF,GA,GD,Pts
-1,/img/teams/liverpool.png,Liverpool,15,11,3,1,31,13,18,36
-2,/img/teams/chelsea.png,Chelsea,16,10,4,2,37,19,18,34
-3,/img/teams/arsenal.png,Arsenal,16,8,6,2,29,15,14,30
-4,/img/teams/nottm-f.png,Nottm For,16,8,4,4,21,19,2,28
-5,/img/teams/man-c.png,Man. City,16,8,3,5,28,23,5,27
-6,/img/teams/bournemouth.png,Bournemouth,16,7,4,5,24,21,3,25
-7,/img/teams/avfc.png,Aston Villa,16,7,4,5,24,25,-1,25
-8,/img/teams/fulham.png,Fulham,16,6,6,4,24,22,2,24
-9,/img/teams/brighton.png,Brighton,16,6,6,4,26,25,1,24
-10,/img/teams/spurs.png,Tottenham,16,7,2,7,36,19,17,23
-11,/img/teams/brentford.png,Brentford,16,7,2,7,32,30,2,23
-12,/img/teams/newcastle.png,Newcastle,16,6,5,5,23,21,2,23
-13,/img/teams/man-u.png,Man. Utd,16,6,4,6,21,19,2,22
-14,/img/teams/west-ham.png,West Ham,16,5,4,7,21,29,-8,19
-15,/img/teams/crystal-pal.png,Crystal Pal,16,3,7,6,17,21,-4,16
-16,/img/teams/everton.png,Everton,15,3,6,6,14,21,-7,15
-17,/img/teams/leicester.png,Leicester,16,3,5,8,21,34,-13,14
-18,/img/teams/ipswich.png,Ipswich,16,2,6,8,16,28,-12,12
-19,/img/teams/wolves.png,Wolverhampton,16,2,3,11,24,40,-16,9
-20,/img/teams/southampton.png,Southampton,16,1,2,13,11,36,-25,5
+1,/img/teams/liverpool.png,Liverpool,23,17,5,1,56,21,35,56
+2,/img/teams/arsenal.png,Arsenal,24,14,8,2,49,22,27,50
+3,/img/teams/nottm-f.png,Nottm For,24,14,5,5,40,27,13,47
+4,/img/teams/chelsea.png,Chelsea,24,12,7,5,47,31,16,43
+5,/img/teams/man-c.png,Man. City,24,12,5,7,48,35,13,41
+6,/img/teams/newcastle.png,Newcastle,24,12,5,7,42,29,13,41
+7,/img/teams/bournemouth.png,Bournemouth,24,11,7,6,41,28,13,40
+8,/img/teams/avfc.png,Aston Villa,24,10,7,7,34,37,-3,37
+9,/img/teams/fulham.png,Fulham,24,9,9,6,36,32,4,36
+10,/img/teams/brighton.png,Brighton,24,8,10,6,35,38,-3,34
+11,/img/teams/brentford.png,Brentford,24,9,4,11,42,42,0,31
+12,/img/teams/crystal-pal.png,Crystal Pal,24,7,9,8,28,30,-2,30
+13,/img/teams/man-u.png,Man. Utd,24,8,5,11,28,34,-6,29
+14,/img/teams/spurs.png,Tottenham,24,8,3,13,48,37,11,27
+15,/img/teams/west-ham.png,West Ham,24,7,6,11,29,46,-17,27
+16,/img/teams/everton.png,Everton,23,6,8,9,23,28,-5,26
+17,/img/teams/wolves.png,Wolverhampton,24,5,4,15,34,52,-18,19
+18,/img/teams/leicester.png,Leicester,24,4,5,15,25,53,-28,17
+19,/img/teams/ipswich.png,Ipswich,24,3,7,14,22,49,-27,16
+20,/img/teams/southampton.png,Southampton,24,2,3,19,18,54,-36,9

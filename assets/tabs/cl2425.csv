@@ -1,37 +1,37 @@
 Pos,,,Pld,W,D,L,GF,GA,GD,Pts
-1,/img/teams/liverpool.png,Liverpool,6,6,0,0,13,1,12,18
-2,/img/teams/barcelona.png,Barcelona,6,5,0,1,21,7,14,15
-3,/img/teams/arsenal.png,Arsenal,6,4,1,1,11,2,9,13
-4,/img/teams/bayer04.png,Leverkusen,6,4,1,1,12,5,7,13
-5,/img/teams/avfc.png,Aston Villa,6,4,1,1,9,3,6,13
-6,/img/teams/inter.png,Inter,6,4,1,1,7,1,6,13
-7,/img/teams/brest.png,Brest,6,4,1,1,10,6,4,13
-8,/img/teams/lille.png,LOSC,6,4,1,1,10,7,3,13
-9,/img/teams/dortmund.png,Dortmund,6,4,0,2,18,9,9,12
-10,/img/teams/bayern.png,Bayern Munich,6,4,0,2,17,8,9,12
-11,/img/teams/athletico-madrid.png,Atlético Madrid,6,4,0,2,14,10,4,12
-12,/img/teams/milan.png,Milan,6,4,0,2,12,9,3,12
-13,/img/teams/atalanta.png,Atalanta,6,3,2,1,13,4,9,11
-14,/img/teams/juventus.png,Juventus,6,3,2,1,9,5,4,11
-15,/img/teams/benfica.png,Benfica,6,3,1,2,10,7,3,10
-16,/img/teams/monaco.png,Monaco,6,3,1,2,12,10,2,10
-17,/img/teams/sporting.png,Sporting,6,3,1,2,11,9,2,10
-18,/img/teams/feyenoord.png,Feyenoord,6,3,1,2,14,15,-1,10
-19,/img/teams/brugge.png,Club Brugge,6,3,1,2,6,8,-2,10
-20,/img/teams/real-madrid.png,Real Madrid,6,3,0,3,12,11,1,9
-21,/img/teams/celtic.png,Celtic,6,2,3,1,10,10,0,9
-22,/img/teams/man-c.png,Man. City,6,2,2,2,13,9,4,8
-23,/img/teams/psv.png,PSV,6,2,2,2,10,8,2,8
-24,/img/teams/zagreb.png,Dinamo Zagreb,6,2,2,2,10,15,-5,8
-25,/img/teams/psg.png,PSG,6,2,1,3,6,6,0,7
-26,/img/teams/stuttgart.png,Vfb Stuttgart,6,2,1,3,9,12,-3,7
-27,/img/teams/shakhtar.png,Shakhtar Donetsk,6,1,1,4,5,13,-8,4
-28,/img/teams/sparta-praha.png,Sparta Praha,6,1,1,4,7,18,-11,4
-29,/img/teams/sturm-graz.png,SK Sturm Graz,6,1,0,5,4,9,-5,3
-30,/img/teams/girona.png,Girona,6,1,0,5,4,10,-6,3
-31,/img/teams/crvena-zvezda.png,Crvena zvezda,6,1,0,5,10,19,-9,3
-32,/img/teams/rb-salzburg.png,RB Salzburg,6,1,0,5,3,18,-15,3
-33,/img/teams/bologna.png,Bologna,6,0,2,4,1,7,-6,2
-34,/img/teams/rb-leipzig.png,RB Leipzig,6,0,0,6,6,13,-7,0
-35,/img/teams/bratislava.png,Slovan Bratislava,6,0,0,6,5,21,-16,0
-36,/img/teams/youngboys.png,Young Boys,6,0,0,6,3,22,-19,0
+1,/img/teams/liverpool.png,Liverpool,8,7,0,1,17,5,12,21
+2,/img/teams/barcelona.png,Barcelona,8,6,1,1,28,13,15,19
+3,/img/teams/arsenal.png,Arsenal,8,6,1,1,16,3,13,19
+4,/img/teams/inter.png,Inter,8,6,1,1,11,1,10,19
+5,/img/teams/athletico-madrid.png,Atlético Madrid,8,6,0,2,20,12,8,18
+6,/img/teams/bayer04.png,Leverkusen,8,5,1,2,15,7,8,16
+7,/img/teams/lille.png,LOSC,8,5,1,2,17,10,7,16
+8,/img/teams/avfc.png,Aston Villa,8,5,1,2,13,6,7,16
+9,/img/teams/atalanta.png,Atalanta,8,4,3,1,20,6,14,15
+10,/img/teams/dortmund.png,Dortmund,8,5,0,3,22,12,10,15
+11,/img/teams/real-madrid.png,Real Madrid,8,5,0,3,20,12,8,15
+12,/img/teams/bayern.png,Bayern Munich,8,5,0,3,20,12,8,15
+13,/img/teams/milan.png,Milan,8,5,0,3,14,11,3,15
+14,/img/teams/psv.png,PSV,8,4,2,2,16,12,4,14
+15,/img/teams/psg.png,PSG,8,4,1,3,14,9,5,13
+16,/img/teams/benfica.png,Benfica,8,4,1,3,16,12,4,13
+17,/img/teams/monaco.png,Monaco,8,4,1,3,13,13,0,13
+18,/img/teams/brest.png,Brest,8,4,1,3,10,11,-1,13
+19,/img/teams/feyenoord.png,Feyenoord,8,4,1,3,18,21,-3,13
+20,/img/teams/juventus.png,Juventus,8,3,3,2,9,7,2,12
+21,/img/teams/celtic.png,Celtic,8,3,3,2,13,14,-1,12
+22,/img/teams/man-c.png,Man. City,8,3,2,3,18,14,4,11
+23,/img/teams/sporting.png,Sporting,8,3,2,3,13,12,1,11
+24,/img/teams/brugge.png,Club Brugge,8,3,2,3,7,11,-4,11
+25,/img/teams/zagreb.png,Dinamo Zagreb,8,3,2,3,12,19,-7,11
+26,/img/teams/stuttgart.png,Vfb Stuttgart,8,3,1,4,13,17,-4,10
+27,/img/teams/shakhtar.png,Shakhtar Donetsk,8,2,1,5,8,16,-8,7
+28,/img/teams/bologna.png,Bologna,8,1,3,4,4,9,-5,6
+29,/img/teams/crvena-zvezda.png,Crvena zvezda,8,2,0,6,13,22,-9,6
+30,/img/teams/sturm-graz.png,SK Sturm Graz,8,2,0,6,5,14,-9,6
+31,/img/teams/sparta-praha.png,Sparta Praha,8,1,1,6,7,21,-14,4
+32,/img/teams/rb-leipzig.png,RB Leipzig,8,1,0,7,8,15,-7,3
+33,/img/teams/girona.png,Girona,8,1,0,7,5,13,-8,3
+34,/img/teams/rb-salzburg.png,RB Salzburg,8,1,0,7,5,27,-22,3
+35,/img/teams/bratislava.png,Slovan Bratislava,8,0,0,8,7,27,-20,0
+36,/img/teams/youngboys.png,Young Boys,8,0,0,8,3,24,-21,0
