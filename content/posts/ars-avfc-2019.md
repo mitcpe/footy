@@ -2,6 +2,7 @@
 title: 'Villa slip up against 10 man Arsenal'
 date: 2019-09-22T18:19:08+01:00
 draft: false
+author: Paul Mitchell
 tags: [Arsenal]
 categories: [Match Review]
 ---
