@@ -38,6 +38,9 @@ params:
 
   googleAnalytics: G-NP5BZHP1Q0
 
+  comments: true
+  commentid: 5692244065517568-proj
+
   author: 
     name: Paul Mitchell
     email: avfcfacts@gmail.com
