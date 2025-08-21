@@ -1,5 +1,5 @@
 ---
-title: "Aston Villa Transfers 2026/26"
+title: "Aston Villa Transfers 2025/26"
 date: 2025-07-01T16:18:24+01:00
 draft: false
 
