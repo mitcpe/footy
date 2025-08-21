@@ -1,21 +1,21 @@
 Pos,,,Pld,W,D,L,GF,GA,GD,Pts
-1,/img/teams/arsenal.png,Arsenal,0,0,0,0,0,0,0,0
-2,/img/teams/avfc.png,Aston Villa,0,0,0,0,0,0,0,0
-3,/img/teams/bournemouth.png,Bournemouth,0,0,0,0,0,0,0,0
-4,/img/teams/brentford.png,Brentford,0,0,0,0,0,0,0,0
-5,/img/teams/brighton.png,Brighton,0,0,0,0,0,0,0,0
-6,/img/teams/burnley.png,Burnley,0,0,0,0,0,0,0,0
-7,/img/teams/chelsea.png,Chelsea,0,0,0,0,0,0,0,0
-8,/img/teams/crystal-pal.png,Crystal Pal,0,0,0,0,0,0,0,0
-9,/img/teams/everton.png,Everton,0,0,0,0,0,0,0,0
-10,/img/teams/fulham.png,Fulham,0,0,0,0,0,0,0,0
-11,/img/teams/leeds.png,Leeds,0,0,0,0,0,0,0,0
-12,/img/teams/liverpool.png,Liverpool,0,0,0,0,0,0,0,0
-13,/img/teams/man-c.png,Man. City,0,0,0,0,0,0,0,0
-14,/img/teams/man-u.png,Man. Utd,0,0,0,0,0,0,0,0
-15,/img/teams/newcastle.png,Newcastle,0,0,0,0,0,0,0,0
-16,/img/teams/nottm-f.png,Nottm For,0,0,0,0,0,0,0,0
-17,/img/teams/sunderland.png,Sunderland,0,0,0,0,0,0,0,0
-18,/img/teams/spurs.png,Tottenham,0,0,0,0,0,0,0,0
-19,/img/teams/west-ham.png,West Ham,0,0,0,0,0,0,0,0
-20,/img/teams/wolves.png,Wolverhampton,0,0,0,0,0,0,0,0
+1,/img/teams/man-c.png,Man. City,1,1,0,0,4,0,4,3
+2,/img/teams/sunderland.png,Sunderland,1,1,0,0,3,0,3,3
+3,/img/teams/spurs.png,Tottenham,1,1,0,0,3,0,3,3
+4,/img/teams/liverpool.png,Liverpool,1,1,0,0,4,2,2,3
+5,/img/teams/nottm-f.png,Nottm For,1,1,0,0,3,1,2,3
+6,/img/teams/arsenal.png,Arsenal,1,1,0,0,1,0,1,3
+7,/img/teams/leeds.png,Leeds,1,1,0,0,1,0,1,3
+8,/img/teams/brighton.png,Brighton,1,0,1,0,1,1,0,1
+9,/img/teams/fulham.png,Fulham,1,0,1,0,1,1,0,1
+10,/img/teams/avfc.png,Aston Villa,1,0,1,0,0,0,0,1
+11,/img/teams/chelsea.png,Chelsea,1,0,1,0,0,0,0,1
+12,/img/teams/crystal-pal.png,Crystal Pal,1,0,1,0,0,0,0,1
+13,/img/teams/newcastle.png,Newcastle,1,0,1,0,0,0,0,1
+14,/img/teams/everton.png,Everton,1,0,0,1,0,1,-1,0
+15,/img/teams/man-u.png,Man. Utd,1,0,0,1,0,1,-1,0
+16,/img/teams/bournemouth.png,Bournemouth,1,0,0,1,2,4,-2,0
+17,/img/teams/brentford.png,Brentford,1,0,0,1,1,3,-2,0
+18,/img/teams/burnley.png,Burnley,1,0,0,1,0,3,-3,0
+19,/img/teams/west-ham.png,West Ham,1,0,0,1,0,3,-3,0
+20,/img/teams/wolves.png,Wolverhampton,1,0,0,1,0,4,-4,0
